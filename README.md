@@ -63,4 +63,4 @@ The goal is to understand which income sources and strategies contributed most t
 4. Compare actual income vs targets and analyze source-level performance.
 
 ### Excel Dashboard
-![Excel Dashboard](images/Dashboard.png)
+![Excel Dashboard](image/Dashboard.png)
